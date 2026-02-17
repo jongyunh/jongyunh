@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 - LinkedIn: linkedin.com/in/jongyunh 
 - Email: jongyunh02@gmail.com 
-- Location: Wilmington, MA
