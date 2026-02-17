@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 📬 Connect with Me
 
-LinkedIn: linkedin.com/in/jongyunh 
+- LinkedIn: linkedin.com/in/jongyunh 
 
-Email: jongyunh02@gmail.com 
+- Email: jongyunh02@gmail.com 
 
-Location: Wilmington, MA
+- Location: Wilmington, MA
